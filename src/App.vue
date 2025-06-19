@@ -48,7 +48,7 @@
           <p class="text-body-2 text-medium-emphasis mb-0">
             Desarrollado con ❤️ usando Vue 3 + Vuetify 3
             <br>
-            <small>Datos proporcionados por JSONPlaceholder API</small>
+            <small>Datos proporcionados por JSONPlaceholder API - &copy;2025 Rodrigo Bonilla. Todos los derechos reservados.</small>
           </p>
         </v-col>
       </v-row>
